@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Alex Espinoza.<br>I'm currently working on a GUI for my Youtube Content Creation Bot.<br>I love coffee.<br>
+Hi, my name is Alex Espinoza.<br><br>I love coffee.<br>
 
 
 ## 🌐 Socials:
