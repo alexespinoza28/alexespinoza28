@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Alex Espinoza.<br><br>I love coffee.<br>
+Hi, my name is Alex Espinoza.<br>
 
 
 ## 🌐 Socials:
